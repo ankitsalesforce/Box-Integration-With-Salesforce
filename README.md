@@ -1,5 +1,5 @@
 # BoxIntegrationWithSalesforce
-Integerate Box with Salesforce 
+Integrate Box with Salesforce 
 
 Step 1: Open account on developer.box.com
 Step 2. Create a custom app with Outh 2.0 (user Credetional)
